@@ -4,6 +4,16 @@ Firmware cho board điều khiển robot tự chế dựa trên **ESP32-DevKit**
 
 ---
 
+## 📸 Robot in Action
+
+<p align="center">
+  <img src="https://github.com/nhandream2008/ROBOTO2026/blob/main/PICTURE/robocon20261.jpg?raw=true" width="32%" />
+  <img src="https://github.com/nhandream2008/ROBOTO2026/blob/main/PICTURE/robocon20262.jpg?raw=true" width="32%" />
+  <img src="https://github.com/nhandream2008/ROBOTO2026/blob/main/PICTURE/robocon20263.jpg?raw=true" width="32%" />
+</p>
+
+---
+
 ## 📦 Tổng quan dự án
 
 Project gồm **3 chương trình firmware** độc lập, dùng cho các kịch bản khác nhau:
